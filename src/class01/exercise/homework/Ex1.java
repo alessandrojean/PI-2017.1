@@ -1,4 +1,4 @@
-package exercise.homework;
+package class01.exercise.homework;
 
 /**
  * The HelloWorldApp class implements an application that simply prints

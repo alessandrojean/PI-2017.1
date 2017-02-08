@@ -1,4 +1,4 @@
-package exercise.homework;
+package class01.exercise.homework;
 
 public class Ex2
 {
