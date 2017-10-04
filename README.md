@@ -1,4 +1,4 @@
-# PE-2017.3
+# PI-2017.3
 
 Simple repository for the algorithms written in the classes of "Processamento da Informação", in Java language, using NetBeans.
 
