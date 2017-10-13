@@ -108,7 +108,9 @@ public class ImpostoRenda {
         else
             imposto = (salarioInput-20529.36)*0.15;
  
-        frase = String.format("O total de imposto devido pelo contribuinte:\n %s\n CPF: %s\n R$ %.2f", nomeContribuinte, CPFContribuinte, imposto);
+        frase = String.format(
+            "O total de imposto devido pelo contribuinte:\n %s\n CPF: %s\n R$ %.2f", 
+            nomeContribuinte, CPFContribuinte, imposto);
         JOptionPane.showMessageDialog(null,frase);
     }
 }
