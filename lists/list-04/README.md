@@ -1,7 +1,6 @@
 # Lista 04
 
-1. Escreva um programa que simule o conhecido **Problema de Monty Hall**
-(https://pt.wikipedia.org/wiki/Problema_de_Monty_Hall) utilizando os conceitos de **Modularização/Módulos** e de **Vetores**.
+1. Escreva um programa que simule o conhecido **Problema de Monty Hall** (https://pt.wikipedia.org/wiki/Problema_de_Monty_Hall) utilizando os conceitos de **Modularização/Módulos** e de **Vetores**.
 
     Por ex., em vez de colocar as linhas de código que geram um número randômico diretamente no método `main()`, escreva um método para este fim e dispare este método específico a partir do método `main()`, retornando um número no local da chamada. Com relação a vetores, por ex., em vez de criar três variáveis para as três portas, use um vetor com três posições.
 
