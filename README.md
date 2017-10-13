@@ -4,20 +4,17 @@
 Simple repository for the algorithms written in the classes of "Processamento da Informação", in Java language, using NetBeans.
 
 ## Classes
-
-| Class          | Content                                           |
-|     :---:      | :---                                              |
-| 09/02/2017     | Apresentation of the discipline and NetBeans IDE. |
-| 16/02/2017     | Computer algorithms and exercises in NetBeans.    |
-| 23/02/2017     | Sequential structures and test case table.        |
-| 02/03/2017     | Decision structures: simple, compound and nested. |
-| 09/03/2017     | Control structures: loop.                         |
-| **16/03/2017** | **First test.**                                   |
-| 23/03/2017     | Arrays.                                           |
-| 30/03/2017     | Two-dimensional arrays.                           |
-| 06/04/2017     | Modularization I.                                 |
-| 13/04/2017     | Modularization II.                                |
-| **20/04/2017** | **Second test.**                                  |
+- **09/02/2017:** Apresentation of the discipline and NetBeans IDE.
+- **16/02/2017:** Computer algorithms and exercises in NetBeans.
+- **23/02/2017:** Sequential structures and test case table.
+- **02/03/2017:** Decision structures: simple, compound and nested.
+- **09/03/2017:** Control structures: loop.
+- **16/03/2017: First test.**
+- **23/03/2017:** Arrays.
+- **30/03/2017:** Two-dimensional arrays.
+- **06/04/2017:** Modularization I.
+- **13/04/2017:** Modularization II.
+- **20/04/2017: Second test.**
 
 ## Bibliography
 ### Basic
