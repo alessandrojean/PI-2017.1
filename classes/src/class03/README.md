@@ -170,37 +170,37 @@ public class MaiorValor {
 Salve, compile e execute o seu projeto. Analise os resultados. Modifique o código para detectar quando os três valores são iguais.
 
 ## Exercícios para Casa
-- Faça um programa em Java que peça como entrada o peso (em kilogramas) e a altura (em metros) da pessoa, e calcule o seu IMC Índice de Massa Corpórea. Adicionalmente, o programa deve emitir as mensagens correspondentes conforme a tabela a seguir:
+1. Faça um programa em Java que peça como entrada o peso (em kilogramas) e a altura (em metros) da pessoa, e calcule o seu IMC Índice de Massa Corpórea. Adicionalmente, o programa deve emitir as mensagens correspondentes conforme a tabela a seguir:
 
-| Cálculo IMC       | Situação                                 |
-| ----------------- | ---------------------------------------- |
-| Abaixo de 18,5    | Você está abaixo do peso ideal           |
-| Entre 18,5 e 24,9 | Parabéns - você está em seu peso normal! |
-| Entre 25,0 e 29,9 | Você está acima de seu peso (sobrepeso)  |
-| Entre 30,0 e 34,9 | Obesidade grau I                         |
-| Entre 35,0 e 39,9 | Obesidade grau II                        |
-| 40,0 e acima      | Obesidade grau III                       |
+    | Cálculo IMC       | Situação                                 |
+    | ----------------- | ---------------------------------------- |
+    | Abaixo de 18,5    | Você está abaixo do peso ideal           |
+    | Entre 18,5 e 24,9 | Parabéns - você está em seu peso normal! |
+    | Entre 25,0 e 29,9 | Você está acima de seu peso (sobrepeso)  |
+    | Entre 30,0 e 34,9 | Obesidade grau I                         |
+    | Entre 35,0 e 39,9 | Obesidade grau II                        |
+    | 40,0 e acima      | Obesidade grau III                       |
 
-- Faça um programa em Java que peça como entrada os coeficientes `a`, `b` e `c` de uma equação de 2º grau e forneça como saída as suas raízes. Não se esqueça de prever os seguintes casos:
+1. Faça um programa em Java que peça como entrada os coeficientes `a`, `b` e `c` de uma equação de 2º grau e forneça como saída as suas raízes. Não se esqueça de prever os seguintes casos:
     1. `a = 0` : Equação de 1º grau, calcule a **única** raiz diretamente
     1. `Δ = 0` : Calcule a **única** raiz pela fórmula de Baskara
     1. `Δ < 0` : Calcule as 2 raízes **complexas** pela fórmula de Baskara
     1. `Δ > 0` : Calcule as 2 raízes **reais** pela fórmula de Baskara
 
-- Faça um programa em Java que peça como entrada o conceito final de um aluno em uma disciplina cursada na UFABC e imprima a mensagem correta, conforme tabela abaixo:
+1. Faça um programa em Java que peça como entrada o conceito final de um aluno em uma disciplina cursada na UFABC e imprima a mensagem correta, conforme tabela abaixo:
 
-| Conceito Final | Situação               |
-|     :---:      | :---                   |
-| A              | Desempenho excepcional |
-| B              | Bom desempenho         |
-| C              | Desempenho adequado    |
-| D              | Aproveitamento mínimo  |
-| F              | Reprovado              |
-| O              | Reprovado por falta    |
-| I              | Incompleto             |
+    | Conceito Final | Situação               |
+    |     :---:      | :---                   |
+    | A              | Desempenho excepcional |
+    | B              | Bom desempenho         |
+    | C              | Desempenho adequado    |
+    | D              | Aproveitamento mínimo  |
+    | F              | Reprovado              |
+    | O              | Reprovado por falta    |
+    | I              | Incompleto             |
 
-- Uma livraria está fazendo uma promoção para pagamento à vista em que o comprador pode escolher entre dois critérios de desconto:
+1. Uma livraria está fazendo uma promoção para pagamento à vista em que o comprador pode escolher entre dois critérios de desconto:
     - Critério A: R$ 0,25 por livro + R$ 7,50 fixo
     - Critério B: R$ 0,50 por livro + R$ 2,50 fixo
-
-Faça um programa em Java em que o usuário digite a quantidade de livros que deseja comprar e o programa diga qual é a melhor opção de desconto.
+    
+    Faça um programa em Java em que o usuário digite a quantidade de livros que deseja comprar e o programa diga qual é a melhor opção de desconto.

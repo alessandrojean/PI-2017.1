@@ -50,8 +50,7 @@ public class GerenciadorDeAplicacao {
 Você está desenvolvendo o sistema de um caixa eletrônico para um banco. O cliente do banco informa ao caixa quanto deseja retirar e o caixa deve liberar o valor utilizando as cédulas disponíveis. Por exemplo, no caso de um caixa que tenha apenas notas de 10, 20 e 50 reais, um usuário que solicita o saque de 180 reais deve receber 3 notas de 50, 1 nota de 20 e 1 nota de 10.
 
 1. Escreva um programa que solicita ao usuário que ele entre com um valor a ser sacado e devolve o número de notas de cada valor. O caixa deve devolver o menor número possível de células que contemplem o valor solicitado. Suponha que o caixa tenha notas de 50, 10, 5 e 1.
-
-**Dica:** utilize os operadores `/` e `%`.
+    **Dica:** utilize os operadores `/` e `%`.
 
 ## Exercícios para Casa
 1. Modifique o código do caixa eletrônico de modo a simular um caixa eletrônico de verdade. Neste caso, seu programa deve solicitar ao usuário o número de notas de cada valor que estão inicialmente disponíveis no caixa
