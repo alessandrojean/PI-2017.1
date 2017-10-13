@@ -16,18 +16,6 @@ Simple repository for the algorithms written in the classes of "Processamento da
 - **13/04/2017:** Modularization II.
 - **20/04/2017: Second test.**
 
-## Bibliography
-### Basic
-1. FORBELLONE, A. L. V. e EBERSPÄCHER, H. R. - **Lógica de Programação: A Construção de Algoritmos e Estruturas de Dados**. Pearson Prentice Hall, 3rd edition, 2005.
-1. DEITEL, H.M. e DEITEL, P.J. - **Java: How to Program**. Pearson Prentice Hall, 6th edition, 2005.
-1. SEBESTA, R.W. - **Concepts of programming languages**. Artmed Bookman, 5th edition, 2003.
-1. NEVES, R. e ZAMPIROLLI, F. - **Processando a Informação**. Available at http://bcc.ufabc.edu.br/~rogerio.neves/pi/. Accessed in 08/02/2017.
-1. SANTOS, R. - **Introdução à Programação Orientada a Objetos Usando JAVA**. Elsevier, 7th reprint, 2003.
-
-### Additional
-1. CORMEN, T. et al. - **Introduction to algorithms**. The MIT Press, 2nd edition, 2001.
-
-
 ## License
 
     Copyright 2017 Alessandro Jean
