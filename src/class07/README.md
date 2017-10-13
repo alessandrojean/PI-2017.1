@@ -57,9 +57,11 @@ Ao final, imprima os vetores `valoresPositivos` e `valoresNegativos`.
 Faça um programa que preencha um vetor com dez números inteiros, calcule e mostre o vetor resultante em ordem crescente de valores.
 
 Exemplo de entrada:
+
 ![Imgur](https://i.imgur.com/mFAPy6c.png)
 
 Saída:
+
 ![Imgur](https://i.imgur.com/5zTv4wP.png)
 
 Para a ordenação, pode ser empregado o seguinte pseudocódigo:
