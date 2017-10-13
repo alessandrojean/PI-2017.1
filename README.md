@@ -1,7 +1,7 @@
 # PI-2017.1
-![Year](https://img.shields.io/badge/year-2017.1-blue.svg) ![Last class](https://img.shields.io/badge/last_class-2017.04.13-green.svg) ![Language](https://img.shields.io/badge/language-Java-yellow.svg) ![IDE](https://img.shields.io/badge/IDE-NetBeans-orange.svg)
+![Year](https://img.shields.io/badge/year-2017.1-blue.svg) ![id](https://img.shields.io/badge/id-BCM0505--15-yellowgreen.svg) ![tpi](https://img.shields.io/badge/T--P--I-3--2--5-lightgrey.svg) ![Last class](https://img.shields.io/badge/last_class-2017.04.13-green.svg) ![Language](https://img.shields.io/badge/language-Java-yellow.svg) ![IDE](https://img.shields.io/badge/IDE-NetBeans-orange.svg)
 
-Simple repository for the algorithms written in the classes of "Processamento da Informação", in Java language, using NetBeans.
+Algorithms written in the classes of Information Processing (Processamento da Informação) at Federal University of ABC (UFABC).
 
 ## Classes
 - **09/02/2017:** Apresentation of the discipline and NetBeans IDE.
