@@ -1,4 +1,5 @@
 # Vetores
+*Notas de aula do Prof. José A. Quilici-Gonzalez, CMCC/UFABC.*
 
 ## Introdução
 Um **Vetor** também é conhecido como **variável composta homogênea unidimensional**, ou seja, corresponde a um conjunto de variáveis do mesmo tipo, que possuem o mesmo identificador e são alocadas sequencialmente na memória. Como as variáveis têm o mesmo nome, o que as distingue é um índice que referencia a sua localização dentro da estrutura.

@@ -1,4 +1,5 @@
 # Lista 03
+*Lista de Exercícios do Prof. José A. Quilici-Gonzalez, CMCC/UFABC.*
 
 1. Faça um programa, utilizando a estrutura `for` aprimorada, que leia 5 vetores do tipo `String` com tamanhos 1, 2, 3, 4 e 5 e os guarde em um outro vetor (bidimensional). Em seguida o programa deve imprimir este vetor bidimensional "formatando-o" em linhas e colunas, como a ilustração abaixo.
 

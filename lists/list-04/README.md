@@ -1,4 +1,5 @@
 # Lista 04
+*Lista de Exercícios do Prof. José A. Quilici-Gonzalez, CMCC/UFABC.*
 
 1. Escreva um programa que simule o conhecido **Problema de Monty Hall** (https://pt.wikipedia.org/wiki/Problema_de_Monty_Hall) utilizando os conceitos de **Modularização/Módulos** e de **Vetores**.
 

@@ -1,4 +1,5 @@
 # Lista 02
+*Lista de Exercícios do Prof. José A. Quilici-Gonzalez, CMCC/UFABC.*
 
 1. Escreva um programa em **Java** usando um `while` e um `for`, aninhados na ordem que lhe parecer mais apropriada, que imprima o triângulo mostrado abaixo.
 

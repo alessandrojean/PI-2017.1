@@ -1,4 +1,5 @@
 # Estruturas de Repetição (Laços)
+*Notas de aula do Prof. José A. Quilici-Gonzalez, CMCC/UFABC.*
 
 ## Atividade 1 - Comando `while`: Extraindo os dígitos de um número
 O comando `while` pode ser utilizado para programas em que é preciso repetir uma mesma ação diversas vezes. Um exemplo é a extração de dígitos de um número. O operador `%` devolve o resto da divisão de um número inteiro por outro. Este operador pode ser utilizado, por exemplo, para extrair os dígitos de um número. Veja o exemplo abaixo:

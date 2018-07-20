@@ -1,4 +1,5 @@
 # Lista 01
+*Lista de Exercícios do Prof. José A. Quilici-Gonzalez, CMCC/UFABC.*
 
 1. Escreva um programa em **Java** que, usando os métodos de leitura da classe `Scanner`, leia um número digitado pelo usuário e informe na tela, usando os recursos do `printf()`, se este número é par ou ímpar.
 1. Escreva um programa em **Java** para converter notas em conceitos, usando as seguintes faixas de conversão:

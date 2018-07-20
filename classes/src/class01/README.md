@@ -1,4 +1,5 @@
 # Introdução ao IDE NetBeans
+*Notas de aula do Prof. José A. Quilici-Gonzalez, CMCC/UFABC.*
 
 ## Introdução
 Os programas em geral são desenvolvidos com a ajuda dos chamados **_Ambientes Integrados de Desenvolvimento_**, ou simplesmente **_IDE_** (*Integrated Development Environment*). Estes ambientes fornecem **_recursos importantes_** para auxiliar e facilitar o trabalho do programador, como a identificação de **_palavras reservadas_** durante a escrita do código-fonte, identificação de **_erros de sintaxe_**, **_depuração_** e **_compilação_**.

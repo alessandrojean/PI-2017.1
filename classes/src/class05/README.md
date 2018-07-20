@@ -1,4 +1,6 @@
 # Treinamento
+*Notas de aula do Prof. José A. Quilici-Gonzalez, CMCC/UFABC.*
+
 Nesta **Aula 05**, vamos fazer um treinamento utlizando **estruturas sequenciais**, **de decisão** e **de repetição**, e imprimir os resultados usando `printf()` e `showMessageDialog()`.
 
 1. Usando o comando `for` escreva um programa que imprima a contagem regresiva para o lançamento de um foguete, como ilustrado abaixo:

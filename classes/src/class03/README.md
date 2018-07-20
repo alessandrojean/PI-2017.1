@@ -1,4 +1,5 @@
 # Estruturas de Decisão: Simples, Composta e Encadeada
+*Notas de aula do Prof. José A. Quilici-Gonzalez, CMCC/UFABC.*
 
 ## Introdução
 Uma **estrutura** ou um **comando de decisão** define uma **condição em um programa** para que grupos de instruções sejam executados de maneira condicional, de acordo com o resultado da avaliação de um determinado teste (verdadeiro ou falso). Ou seja, programas utilizam comandos de decisão (ou de seleção) para escolher entre cursos alternativos de ações. As **estruturas de decisão** podem ser do tipo **simples**, **composto** ou **encadeado**.

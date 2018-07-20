@@ -1,4 +1,5 @@
 # Estruturas sequenciais envolvendo diferentes tipos de dados, operadores e ordem de precedência
+*Notas de aula do Prof. José A. Quilici-Gonzalez, CMCC/UFABC.*
 
 ## Introdução
 Nesta aula prática, aplicaremos alguns conceitos de **Estruturas Sequenciais** envolvendo diferentes tipos de dados, operadores e ordem de precedência. Vale a pena relembrar:

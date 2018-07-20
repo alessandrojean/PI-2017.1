@@ -1,4 +1,5 @@
 # Vetores Bidimensionais (Matrizes)
+*Notas de aula do Prof. José A. Quilici-Gonzalez, CMCC/UFABC.*
 
 ## Introdução
 Uma **matriz** é um **vetor com duas dimensões**, e costuma ser usada para representar tabelas de valores que consistem de informações dispostas em linhas e colunas. Para identificar um elemento de uma tabela particular devemos especificar dois índices. O primeiro índice se refere à linha do elemento e o segundo à sua coluna. Java não suporta vetores multidimensionais (matrizes) diretamente, mas permite que o programador especifique vetores unidimensionais cujos elementos também são vetores unidimensionais. Neste roteiro abordaremos a utilização de vetores bidimensionais, sendo seus conceitos estendidos para 

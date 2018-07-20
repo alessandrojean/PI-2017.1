@@ -1,4 +1,6 @@
 # P1
+*Prova do Prof. José A. Quilici-Gonzalez, CMCC/UFABC.*
+
 1. (40%) Escreva um programa que, usando os recursos do `JOptionPane`, imprima a soma dos `n` primeiros números inteiros, sendo `n` escolhido pelo usuário, como ilustrado abaixo. Escreva também qual é o maior *número ímpar* mais próximo àquele escolhido pelo usuário.
 
     Obs.: se o número escolhido pelo usuário for ímpar, o maior *número ímpar* mais próximo a ele é ele mesmo.

@@ -1,4 +1,5 @@
 # Modularização de Código e Passagem de Parâmetros
+*Notas de aula do Prof. José A. Quilici-Gonzalez, CMCC/UFABC.*
 
 # Introdução
 Em Java, como em outras linguagens de Programação Orientada a Objetos (POO), o código pode ser simplificado empregando-se **_métodos de classe_**, em princípio análogos às **_funções_** das linguagens funcionais. De fato, sem utilizar POO, em algoritmos sequenciais, como os estudados, não há diferenças notáveis entre **_métodos_** e **_funções_**.
